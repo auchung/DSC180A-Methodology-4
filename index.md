@@ -1,8 +1,7 @@
-# Methodology Assignment 4
+# DSC 180A Methodology Assignment 4
 
 **Audrey Chung**  
 **Email:** auchung@ucsd.edu  
-**Course:** DSC 180A – Data Science Capstone  
 **Domain:** D08 – From First Search to Trust at Scale: Building Data-Driven Marketing Systems and AI Agents for the Fertility Patient Journey and Online Reputation Management  
 **Mentor:** Tamar Schaap
 
